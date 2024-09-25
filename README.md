@@ -1,4 +1,4 @@
-# Beginner-C-Hospital-Management-Project-Using-OOP-Concepts
+# Beginner-C++-Hospital-Management-Project-Using-OOP-Concepts
 
 Hospital Management System contained the information related to health care and aids. They manage the data related to all patients and appointments.
 
@@ -30,10 +30,12 @@ In this project, I have used as many concepts as we were thought during this cou
 ![image](https://github.com/user-attachments/assets/fa192a5f-6d53-49c6-aa5a-371016a26a31)
 
 
-**image**
+![image](https://github.com/user-attachments/assets/539a58d8-e572-408e-8413-fc2ad5ae58a1)
+
 
 **(6)** **Delete**
-**image**
+![image](https://github.com/user-attachments/assets/52fd68fc-87f6-496a-b552-cf7d5fb2c4c9)
+
 
 **(7)** **Exit**
 ![image](https://github.com/user-attachments/assets/e02c9c78-c1b8-4167-adf9-9aa6278217a2)
