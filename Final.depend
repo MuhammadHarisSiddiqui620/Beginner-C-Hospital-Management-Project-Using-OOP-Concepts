@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597823651 source:e:\4th semester\objectorientedprogramming\lab_project(final)\final\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<stdio.h>
+
